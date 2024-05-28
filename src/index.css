@@ -1,0 +1,14 @@
+.count button{
+  width: 40px;
+  height: 40px;
+}
+.count{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.count .number{
+  font-size: 40px;
+  padding: 0 20px;
+}
